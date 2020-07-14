@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class test2 : MonoBehaviour
+public class Test2 : MonoBehaviour
 {
     delegate void NumberChanger(int num);
     public int a=0;

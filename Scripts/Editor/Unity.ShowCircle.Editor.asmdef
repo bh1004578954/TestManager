@@ -1,0 +1,17 @@
+{
+    "name": "Unity.ShowCircle.Editor",
+    "references": [
+        "GUID:8299e180dd1a314478febe92a04b379c"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Editor"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

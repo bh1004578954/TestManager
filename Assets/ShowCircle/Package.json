@@ -1,0 +1,9 @@
+{
+    "name":"com.autocore.showcircle",
+    "displayName":"Show Circle",
+    "description":"draw a circle",
+    "version1":"1.0.0",
+    "unity":"2019.3.11",
+    "dependencies": {
+     }
+}
